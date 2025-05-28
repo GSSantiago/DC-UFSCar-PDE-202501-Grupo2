@@ -1,3 +1,12 @@
+## Escopo do Projeto (Processamento de Dados em Escala - UFSCar)
+Este repositório contém o código original do projeto SpatialFlink, que será utilizado como base para o projeto da disciplina.
+
+O projeto da disciplina prevê a execução base do projeto utilizando a documentação e o Get Started, e então, apresentar para os demais colegas como foi o processo de execução e como este projeto se comunica diretamente com o artigo criado pelos desenvolvedores do projeto.
+
+Abaixo, segue o README original da aplicação: 
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 # GeoFlink and TStream: Distributed Frameworks for the Real-Time Processing of Spatial Data Streams and Trajectory Streams, Respectively
 
 ## Table of Contents
